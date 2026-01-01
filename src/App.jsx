@@ -1,6 +1,6 @@
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
-import './app.css'
+import './App.css'
 import { useState } from 'react'
 import {update} from './helper'
 
